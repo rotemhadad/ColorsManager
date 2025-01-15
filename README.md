@@ -3,7 +3,7 @@ Colors Management Web Application
 
 This is a web application developed in ASP.NET (VB.NET) for managing a colors database. The application allows users to view, edit, delete, and add colors to the database using a web-based interface.
 
-Project Overview
+# Project Overview
 
 The project consists of:
 
@@ -15,7 +15,7 @@ jQuery and AJAX for client-side interactions.
 
 Bootstrap for UI styling and layout.
 
-Features Implemented
+# Features Implemented
 
 Display Colors Table: A table displaying the list of colors with their properties such as name, price, display order, color code, and stock availability.
 
@@ -33,7 +33,7 @@ Color Preview: When adding or editing a color, the selected color code is previe
 
 SQL Server Integration: The application interacts with a SQL Server database using System.Data.SqlClient.
 
-Tools and Technologies Used
+# Tools and Technologies Used
 
 ASP.NET Web Forms (VB.NET)
 
@@ -45,7 +45,7 @@ AJAX for Server Communication
 
 Bootstrap for Styling
 
-Database Structure
+# Database Structure
 
 The database (ColorsDB) includes a single table:
 
